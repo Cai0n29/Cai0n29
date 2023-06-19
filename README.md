@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cai. I'm a highschool student
+- 👋 Hi, I’m Jickle or you can call me Cai. I'm a highschool student from the Philippines 
 - 👀 I’m interested in coding problems and projects
 - 📫 Feel free to reach out :  capellakratos@gmail.com
 - 
