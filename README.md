@@ -1,5 +1,6 @@
-- Hi I'm Cai!
+- Hey there, I'm Jickle! But you can also call me Cai
 - 📫 Feel free to reach out :  capellakratos@gmail.com
+- I'm a 15 years old hacker from the Philippines
 - 
 
 <!---
